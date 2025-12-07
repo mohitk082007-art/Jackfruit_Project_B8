@@ -3,7 +3,7 @@
 This is an Image Reccognition Model that detects fruits and vegetables and is able to provide information related to the ripeness and colorie count of said image. 
 # Team members:
   - Mohit.K
-  - Namita
+  - Namita Maruti Sherakhane
   - Priyamvada
   - Manjushree
 
