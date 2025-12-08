@@ -6,5 +6,7 @@ This is an Image Recognition Model that detects and classifies the same into fru
   - Namita Maruti Sherakhane
   - Priyamvada
   - Manjushree
+# How to run the file:
+type 'streamlit run app.py' in the terminal
 
 
